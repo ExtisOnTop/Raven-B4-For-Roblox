@@ -7,7 +7,6 @@
 
 Completely rewritten from scratch with the help of infinity yield and old raven B4 sources.
 
-<a href="https://discord.gg/4SpwqN979V"><img src="https://invidget.switchblade.xyz/4SpwqN979V" alt="https://discord.gg/4SpwqN979V"/></a><br>
 
 
 ![Screenshot 2025-05-11 015804](https://github.com/user-attachments/assets/519a901d-a765-4e3a-85ba-6bdbe42d32ce)
